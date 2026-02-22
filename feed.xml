@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La Jolla Luxury Estates</title>
+    <link>https://estateinlajolla.pages.dev</link>
+    <description>Latest posts from La Jolla Luxury Estates</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-02-21</lastBuildDate>
+    <atom:link href="https://estateinlajolla.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Coastal Architecture Trends</title>
+      <link>https://estateinlajolla.pages.dev/posts/coastal-architecture-trends/</link>
+      <description>Explore architectural innovations defining La Jolla's luxury homes.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Guide to La Jolla Cove Living</title>
+      <link>https://estateinlajolla.pages.dev/posts/guide-to-la-jolla-cove/</link>
+      <description>Everything you need to know about living near La Jolla Cove.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Strategic Thinking in an Age of Uncertainty</title>
+      <link>https://estateinlajolla.pages.dev/posts/strategic-thinking-in-an-age-of-uncertainty/</link>
+      <description>Strategic Thinking in an Age of Uncertainty — an in-depth exploration with evidence-based insights.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Top Reasons to Invest in La Jolla Real Estate</title>
+      <link>https://estateinlajolla.pages.dev/posts/top-reasons-to-invest-in-la-jolla/</link>
+      <description>Discover why La Jolla continues to be one of the most attractive luxury real estate markets in Southern California.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+  </channel>
+</rss>
